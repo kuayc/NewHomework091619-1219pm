@@ -25,6 +25,10 @@ a {
 	font-size: 14px;
 	font-weight: bold;
 }
+a:hover {
+	color: white;
+	background-color: black;
+}
 main {
 	height: 80vh;
 	width: 80%;
